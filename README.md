@@ -6,7 +6,7 @@
 
 ### Glad to see you here!
 
-I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. I'm currently into Web Development 👨🏻‍💻 and working on my Data Structures and Algorithms 🤓.
+I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. I'm currently into Web Development 👨🏻‍💻 and working on my projects and Algorithms 🤓.
 
 <img align="right" alt="" src="https://cdn.discordapp.com/attachments/767478208625901573/998056569193369680/gato-tecladoo_gif_398398.gif" />
 
