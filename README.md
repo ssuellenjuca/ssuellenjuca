@@ -12,7 +12,7 @@ I'm a passionate learner who's always willing to learn and work across technolog
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working with Javascript, Nodejs, React, Docker, PHP, etc.
+- 🛠 &nbsp; I’m currently working with Javascript, Nodejs,</br> React, Docker, PHP, etc.
 - 🚀 &nbsp; I’m currently learning Full Stack Development.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/ssuellenjuca/).
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
