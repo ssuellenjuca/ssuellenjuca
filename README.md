@@ -68,6 +68,8 @@ I'm a passionate learner who's always willing to learn and work across technolog
 
 <div align="center">
 
-### Show some ❤️ by starring some of the repositories!
+### 💙 If you like my projects, Give them ⭐ and Share it with friends!
+
+Made with ❤️ in Brazil
 
 </div>
