@@ -2,6 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/suellen-sousa-juca/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/hermtica.sjuca/)
+[![Codepen Badge](https://img.shields.io/badge/Codepen-000000?style=flat-square&logo=codepen&logoColor=white)](https://codepen.io/suellen-juca)
 
 ### Glad to see you here!
 
@@ -11,19 +12,18 @@ I'm a passionate learner who's always willing to learn and work across technolog
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working with Nodejs, Express, React, <br /> Graphql, Mongodb, Javascript, etc.
+- 🛠 &nbsp; I’m currently working with Javascript, Nodejs, Express, React, <br /> Docker, PHP, etc.
 - 🚀 &nbsp; I’m currently learning Full Stack Development.
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/iampavangandhi).
-- 💬 &nbsp; Ask me about anything [here](https://github.com/iampavangandhi/iampavangandhi/issues/2)! I am happy to help.
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/ssuellenjuca/).
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
-- 📫 &nbsp; How to reach me: pavangandhi100@gmail.com.
-- 📝 &nbsp; Checkout my [Resume](https://github.com/iampavangandhi/iampavangandhi/blob/master/resume.pdf).
+- 📫 &nbsp; How to reach me: suellenf249@gmail.com.
 
 ### My Absolute Favorites:
 
 - 💻 &nbsp; I love exploring new tech stack and building cool stuffs.
-- 📰 &nbsp; Reading & writing tech blogs whenever possible.
-- 🍕 &nbsp; Hackathons, meetups & tech events.
+- 🎮❤ I like to take naps to replenish my energy and I love to play a lot of games </br>
+(Although I'm not good at any of them)
+- 🍕 &nbsp; Hackathons, CampusParty & tech events.
 
 ### Languages and Tools:
 
