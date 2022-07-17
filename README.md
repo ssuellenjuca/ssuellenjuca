@@ -21,8 +21,7 @@ I'm a passionate learner who's always willing to learn and work across technolog
 ### My Absolute Favorites:
 
 - 💻 &nbsp; I love exploring new tech stack and building cool stuffs.
-- 🎮❤ I like to take naps to replenish my energy and I love to play a lot of games </br>
-(Although I'm not good at any of them)
+- 🎮❤ I like to take naps to replenish my energy and I love to play a lot of games (Although I'm not good at any of them)
 - 🍕 &nbsp; Hackathons, CampusParty & tech events.
 
 ### Languages and Tools:
