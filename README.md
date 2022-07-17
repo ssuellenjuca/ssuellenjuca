@@ -63,7 +63,7 @@ I'm a passionate learner who's always willing to learn and work across technolog
 	</ul>	
 </details>
 
-#
+![snake eif](https://github.com/ssuellenjuca/ssuellenjuca/blob/output/github-contribution-grid-snake.svg)
 
 <div align="center">
 
