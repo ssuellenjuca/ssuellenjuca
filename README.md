@@ -12,7 +12,7 @@ I'm a passionate learner who's always willing to learn and work across technolog
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working with Javascript, Nodejs,</br> React, Docker, PHP, etc.
+- 🛠 &nbsp; I’m currently working with Javascript, Nodejs,</br> React, Object Pascal, Python, etc.
 - 🚀 &nbsp; I’m currently learning Full Stack Development.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/ssuellenjuca/).
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
@@ -29,7 +29,6 @@ I'm a passionate learner who's always willing to learn and work across technolog
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs"></code>
 <code><img height="27" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="27" alt="php" src="https://img.icons8.com/dusk/512/php-logo.png"></code>
 <code><img height="27" alt="jenkins" src="https://img.icons8.com/color/512/jenkins.png"></code>
 <code><img height="27" alt="terminal" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" ></code>
 <code><img height="27" alt="postgree" src="https://img.icons8.com/color/512/postgreesql.png"></code>
