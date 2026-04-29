@@ -63,8 +63,8 @@ Currently, my main interests are:
 <p>
   <img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png">
   <img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png">
-  <img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/powerbi/powerbi.png">
-  <img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/apache-spark/apache-spark.png">
+  <img height="30" src="https://img.icons8.com/color/48/power-bi.png" alt="Power BI">
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" alt="Apache Spark">
 </p>
 
 ### ⚙️ Integration & Enterprise Tools
@@ -143,8 +143,6 @@ Currently, my main interests are:
 <div align="center">
 
 ### ✨ “Transforming complex systems into scalable and intelligent solutions.” ✨
-
-</div>
 
 ### 💙 If you like my projects, Give them ⭐ and Share it with friends!
 
